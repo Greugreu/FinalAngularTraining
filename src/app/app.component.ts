@@ -13,7 +13,7 @@ export class AppComponent {
       authDomain: "finalangularp.firebaseapp.com",
       databaseURL: "https://finalangularp.firebaseio.com",
       projectId: "finalangularp",
-      storageBucket: "",
+      storageBucket: "finalangularp.appspot.com",
       messagingSenderId: "570716373928",
       appId: "1:570716373928:web:771361b04a2898c1"
     };
